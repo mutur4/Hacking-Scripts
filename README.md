@@ -1,5 +1,4 @@
 ## Hacking-Scripts
 
-- This is a repository that includes some hacking scripts that can 
-help during enumeration, exploitation and post-exploitation.
+- This is a repository that includes some scripts created out of curiosity and for better understanding of systems. 
 
